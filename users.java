@@ -8,3 +8,5 @@ Eric
 silva
 djam
 martin
+shuka
+simon
