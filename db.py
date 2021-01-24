@@ -4,3 +4,4 @@ rds
 mariadb
 elastic cache
 sqs
+ebs
